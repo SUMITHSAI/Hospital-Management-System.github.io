@@ -101,27 +101,31 @@ git clone https://github.com/SUMITHSAI/Hospital-Management-System.github.io.git
 9. Hurray! That's it!
     <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-## SOFTWARES USED
+## Software Used
   - XAMPP was installed on the Windows 11 machine and APACHE2 Server and MySQL were initialized. And, files were built inside opt/lampp/htdocs
   - VScode was used as a text editor.
   - Google Chrome Version 77.0.3865.90 was used to run the project.
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-## Starting Apache And MySQL in XAMPP:
+
+## Working Demo
+### 1.Starting Apache And MySQL in XAMPP:
   The XAMPP Control Panel allows you to manually start and stop Apache and MySQL. To start Apache or MySQL manually, click the ‘Start’ button under ‘Actions’.
   
  ![](https://github.com/SUMITHSAI/Hospital-Management-System.github.io/blob/main/Hospital-Management-System-PHP/hospital/assets/images/xampp.png)
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
- ## GETTING INTO THE PROJECT:
-This Hospital Management System built with php and mysql provides a comprehensive platform to streamline various hospital operations. The ‘Home’ page integrates multiple sections, including Logins, Services, About Us, Contact Us, and Gallery, to offer an intuitive and seamless user experience. Fig 1.1 illustrates the dynamic and user-friendly interface of the 'Home' page in our project.
+
+ ### GETTING INTO THE PROJECT:
+This Hospital Management System built with php and mysql provides a comprehensive platform to streamline various hospital operations. The ‘Home’ page integrates multiple sections, including Logins, Services, About Us, Contact Us, and Gallery, to offer an intuitive and seamless user experience. 
 
 ![](https://github.com/SUMITHSAI/Hospital-Management-System.github.io/blob/main/Hospital-Management-System-PHP/hospital/assets/HMS%20Working%20Demo/4.png)
+<div align="center">
+	<strong>Fig 1.1 illustrates the dynamic and user-friendly interface of the 'Home' page in our project.</strong>
+</div>
 
 ![](https://github.com/SUMITHSAI/Hospital-Management-System.github.io/blob/main/Hospital-Management-System-PHP/hospital/assets/HMS%20Working%20Demo/1.png)
 
 The ‘Home’ page consists of 3 Logins:
-1. Patient Login
-2. Doctor Login
-3. Admin Login
+**1. Patient Login	 2. Doctor Login	 3. Admin Login**
 
 ![](https://github.com/SUMITHSAI/Hospital-Management-System.github.io/blob/main/Hospital-Management-System-PHP/hospital/assets/HMS%20Working%20Demo/2.png)
 <div align="center">
@@ -129,31 +133,35 @@ The ‘Home’ page consists of 3 Logins:
 </div>
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-'Our Key Features' Section (Fig 1.2) allows us to get some more information about the quality and the services of the hospital.
+
+**'Our Key Features'** Section (Fig 1.2) allows us to get some more information about the quality and the services of the hospital.
 ![](https://github.com/SUMITHSAI/Hospital-Management-System.github.io/blob/main/Hospital-Management-System-PHP/hospital/assets/HMS%20Working%20Demo/3.png)
 <div align="center">
 	<strong>Fig 1.2: Key Features</strong>
 </div>
 
-'About Us' Section (Fig 1.3)  allows us to get some more information about the Hospital Management System.
+
+**'About Us'** Section (Fig 1.3)  allows us to get some more information about the Hospital Management System.
 ![](https://github.com/SUMITHSAI/Hospital-Management-System.github.io/blob/main/Hospital-Management-System-PHP/hospital/assets/HMS%20Working%20Demo/5.png)
 <div align="center">
 <strong>Fig 1.3: About Us</strong></div>
 
-'Our Gallery' Section (Fig 1.4) showcases images of services like dermatology 🖐🏻, dental 🦷, cardiology 🫀, laboratory, and the entire HMS.
+
+**'Our Gallery'** Section (Fig 1.4) showcases images of services like dermatology 🖐🏻, dental 🦷, cardiology 🫀, laboratory, and the entire HMS.
 ![](https://github.com/SUMITHSAI/Hospital-Management-System.github.io/blob/main/Hospital-Management-System-PHP/hospital/assets/HMS%20Working%20Demo/6.png)
 <div align="center">
   <strong>Fig 1.4: Our Gallery</strong>
 </div>
 
-‘Contact Us’ page allows users to provide feedback or queries about the services of the hospital. Fig 1.5 shows the ‘Contact’ page.
+
+**‘Contact Us’** page allows users to provide feedback or queries about the services of the hospital. Fig 1.5 shows the ‘Contact’ page.
 ![](https://github.com/SUMITHSAI/Hospital-Management-System.github.io/blob/main/Hospital-Management-System-PHP/hospital/assets/HMS%20Working%20Demo/7.png)
 <div align="center">
   <strong>Fig 1.5: Contact Us</strong>
 </div>
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-Working Demo
+## User Flow
 ### Patient Login:
 
   &nbsp; &nbsp; &nbsp; This login module allows patients to create their account, book an appointment to see a doctor and see their appointment history.
@@ -190,6 +198,7 @@ Once the patient has created his/her own account after clicking the ‘Register�
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ### Pateint Dashboard
+
 The Patient Dashboard page allows patients to perform three operations:
 
 **1. Book his/her appointment:**
@@ -263,7 +272,6 @@ Project Link: [Click Here](https://github.com/SUMITHSAI/Hospital-Management-Syst
 ## Acknowledgments
 
 * [GitHub Emoji Cheat Sheet](https://www.webpagefx.com/tools/emoji-cheat-sheet)
-* [Malven's Grid Cheatsheet](https://grid.malven.co/)
 * [GitHub Pages](https://pages.github.com)
 * [Font Awesome](https://fontawesome.com)
 * [React Icons](https://react-icons.github.io/react-icons/search)
