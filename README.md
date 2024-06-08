@@ -40,14 +40,12 @@ Welcome to our Hospital Management System! 🌟 Our platform provides a comprehe
 3. Any web browser with latest version
 
 ## Installation
-###Clone the repository:
+Clone the repository:
 ```sh
 git clone https://github.com/SUMITHSAI/Hospital-Management-System.github.io.git
 ```
 
 ## Languages and Technologies used
-
-## Built With
 
 * [![HTML5][HTML5-badge]][HTML5-url]
 * [![CSS3][CSS3-badge]][CSS3-url]
@@ -104,12 +102,12 @@ git clone https://github.com/SUMITHSAI/Hospital-Management-System.github.io.git
   - XAMPP was installed on the Windows 11 machine and APACHE2 Server and MySQL were initialized. And, files were built inside opt/lampp/htdocs
   - VScode was used as a text editor.
   - Google Chrome Version 77.0.3865.90 was used to run the project.
-
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 ## Starting Apache And MySQL in XAMPP:
   The XAMPP Control Panel allows you to manually start and stop Apache and MySQL. To start Apache or MySQL manually, click the ‘Start’ button under ‘Actions’.
   
  ![](https://github.com/SUMITHSAI/Hospital-Management-System.github.io/blob/main/Hospital-Management-System-PHP/hospital/assets/images/xampp.png)
-
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
  ## GETTING INTO THE PROJECT:
 This Hospital Management System built with php and mysql provides a comprehensive platform to streamline various hospital operations. The ‘Home’ page integrates multiple sections, including Logins, Services, About Us, Contact Us, and Gallery, to offer an intuitive and seamless user experience. Fig 1.1 illustrates the dynamic and user-friendly interface of the 'Home' page in our project.
 
