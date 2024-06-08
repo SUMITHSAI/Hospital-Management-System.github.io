@@ -172,6 +172,8 @@ This Hospital Management System built with php and mysql provides a comprehensiv
 </div>
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+---
+
 ## User Flow
 ### Patient Login:
 
