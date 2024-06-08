@@ -121,6 +121,7 @@ This Hospital Management System built with php and mysql provides a comprehensiv
 <div align="center">
 	<strong>Fig 1.1 illustrates the dynamic and user-friendly interface of the 'Home' page in our project.</strong>
 </div>
+
 ---
 
 ![](https://github.com/SUMITHSAI/Hospital-Management-System.github.io/blob/main/Hospital-Management-System-PHP/hospital/assets/HMS%20Working%20Demo/1.png)
@@ -131,7 +132,6 @@ This Hospital Management System built with php and mysql provides a comprehensiv
   <p><strong>1. Patient Login  &nbsp;&nbsp;  2. Doctor Login  &nbsp;&nbsp;  3. Admin Login</strong></p>
 </div>
  
----
 ![](https://github.com/SUMITHSAI/Hospital-Management-System.github.io/blob/main/Hospital-Management-System-PHP/hospital/assets/HMS%20Working%20Demo/2.png)
 <div align="center">
   <strong>Fig 1.1: Three Login options for patients, doctors, administrator</strong>
@@ -164,7 +164,7 @@ This Hospital Management System built with php and mysql provides a comprehensiv
 </div>
 
 <br>
-**‘Contact Us’** page allows users to provide feedback or queries about the services of the hospital. Fig 1.5 shows the ‘Contact’ page.
+**'Contact Us'** page allows users to provide feedback or queries about the services of the hospital. Fig 1.5 shows the ‘Contact’ page.
 
 ![](https://github.com/SUMITHSAI/Hospital-Management-System.github.io/blob/main/Hospital-Management-System-PHP/hospital/assets/HMS%20Working%20Demo/7.png)
 <div align="center">
@@ -188,7 +188,8 @@ Once the patient has created his/her own account after clicking the ‘Register�
 <div align="center">
 	
 ![](https://github.com/SUMITHSAI/Hospital-Management-System.github.io/blob/main/Hospital-Management-System-PHP/hospital/assets/HMS%20Working%20Demo/8.png)
-<strong>Fig 1.6: Registration</strong></div>
+	<strong>Fig 1.6: Registration</strong>
+</div>
 
 ![](https://github.com/SUMITHSAI/Hospital-Management-System.github.io/blob/main/Hospital-Management-System-PHP/hospital/assets/HMS%20Working%20Demo/12.png)
 
@@ -204,12 +205,15 @@ Once the patient has created his/her own account after clicking the ‘Register�
 	
 ![](https://github.com/SUMITHSAI/Hospital-Management-System.github.io/blob/main/Hospital-Management-System-PHP/hospital/assets/HMS%20Working%20Demo/9.png)
 </div>
+
 ### Admin Module:
    
    &nbsp; &nbsp; &nbsp; This module is the heart of our project where an admin can see the list of all patients. Doctors and appointments and the feedback/queries received from the ‘Contact’ page. Also admin can add doctor too. 
   &nbsp; &nbsp; &nbsp; Login into admin account can be done by toggling into admin tab of the Home page. Fig 1.1 shows login to admin tab.
   &nbsp; &nbsp; &nbsp;
+  
   `username`: admin, `password`: admin123
+  
 <div align="center">
 	
 ![](https://github.com/SUMITHSAI/Hospital-Management-System.github.io/blob/main/Hospital-Management-System-PHP/hospital/assets/HMS%20Working%20Demo/10.png)
@@ -237,7 +241,10 @@ After clicking on the ‘Submit’ button, the patient will receive an alert tha
 	
 ![](https://github.com/SUMITHSAI/Hospital-Management-System.github.io/blob/main/Hospital-Management-System-PHP/hospital/assets/HMS%20Working%20Demo/16.png)
 <div align="center">
-<strong>Fig 1.6: Appointment History</strong></div>
+<strong>Fig 1.6: Appointment History</strong>
+</div>
+
+<br>
 
 Once the patient has logged out of his account, if he wants to go into his account again, he can login his account, instead of register his account again. Fig 1.9 shows the login page.
 Clicking on ‘Login’ button will redirect the patient to his dashboard page which we have seen earlier (Fig 1.8)
