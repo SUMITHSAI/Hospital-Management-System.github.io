@@ -1,11 +1,21 @@
-Custom Repository License
+MIT License
 
-This repository is provided for the purpose of viewing, downloading, and cloning only. Users are not permitted to publish this repository elsewhere or use it for their own benefit without explicit permission from the repository owner.
+Copyright (c) [2024] [KORABOINA SUMITH SAI]
 
-Permission is granted to view, download, and clone the contents of this repository for personal and educational purposes only. Any other use requires prior written consent from the repository owner.
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
 
-By accessing this repository, users agree to abide by the terms and conditions outlined in this license.
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
 
-For inquiries regarding usage, permissions, or other matters, please contact the repository owner at [your contact information].
-
-[Add any additional terms or clauses as needed.]
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
