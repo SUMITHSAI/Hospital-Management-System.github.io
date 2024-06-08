@@ -125,32 +125,31 @@ The ‘Home’ page consists of 3 Logins:
 
 ![](https://github.com/SUMITHSAI/Hospital-Management-System.github.io/blob/main/Hospital-Management-System-PHP/hospital/assets/HMS%20Working%20Demo/2.png)
 <div align="center">
-  **Fig 1.1: Three Login options for patients, doctors, administrator**
+  <strong>Fig 1.1: Three Login options for patients, doctors, administrator</strong>
 </div>
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 'Our Key Features' Section (Fig 1.2) allows us to get some more information about the quality and the services of the hospital.
 ![](https://github.com/SUMITHSAI/Hospital-Management-System.github.io/blob/main/Hospital-Management-System-PHP/hospital/assets/HMS%20Working%20Demo/3.png)
 <div align="center">
-  **Fig 1.2: Key Features**
+	<strong>Fig 1.2: Key Features</strong>
 </div>
 
 'About Us' Section (Fig 1.3)  allows us to get some more information about the Hospital Management System.
 ![](https://github.com/SUMITHSAI/Hospital-Management-System.github.io/blob/main/Hospital-Management-System-PHP/hospital/assets/HMS%20Working%20Demo/5.png)
 <div align="center">
-  **Fig 1.3: About Us**
-</div>
+<strong>Fig 1.3: About Us</strong></div>
 
 'Our Gallery' Section (Fig 1.4) showcases images of services like dermatology 🖐🏻, dental 🦷, cardiology 🫀, laboratory, and the entire HMS.
 ![](https://github.com/SUMITHSAI/Hospital-Management-System.github.io/blob/main/Hospital-Management-System-PHP/hospital/assets/HMS%20Working%20Demo/6.png)
 <div align="center">
-  **Fig 1.4: Gallery Section**
+  <strong>Fig 1.4: Our Gallery</strong>
 </div>
 
 ‘Contact Us’ page allows users to provide feedback or queries about the services of the hospital. Fig 1.5 shows the ‘Contact’ page.
 ![](https://github.com/SUMITHSAI/Hospital-Management-System.github.io/blob/main/Hospital-Management-System-PHP/hospital/assets/HMS%20Working%20Demo/7.png)
 <div align="center">
-  **Fig 1.5: Contact Us**
+  <strong>Fig 1.5: Contact Us</strong>
 </div>
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -165,14 +164,13 @@ Working Demo
 Once the patient has created his/her own account after clicking the ‘Register’ button, then he will be regustered and can login to his/her Dashboard(Fig 1.8).
 ![](https://github.com/SUMITHSAI/Hospital-Management-System.github.io/blob/main/Hospital-Management-System-PHP/hospital/assets/HMS%20Working%20Demo/8.png)
 <div align="center">
-  **Fig 1.6: Registration**
-</div>
+<strong>Fig 1.6: Registration</strong></div>
 
 ![](https://github.com/SUMITHSAI/Hospital-Management-System.github.io/blob/main/Hospital-Management-System-PHP/hospital/assets/HMS%20Working%20Demo/12.png)
 
 <div align="center">
-  **Fig 1.6: Dashboard**
-</div>
+	<strong>Fig 1.6: Dashboard</strong>
+ </div>
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ### Doctor Login:
@@ -185,7 +183,8 @@ Once the patient has created his/her own account after clicking the ‘Register�
    
    &nbsp; &nbsp; &nbsp; This module is the heart of our project where an admin can see the list of all patients. Doctors and appointments and the feedback/queries received from the ‘Contact’ page. Also admin can add doctor too. 
   &nbsp; &nbsp; &nbsp; Login into admin account can be done by toggling into admin tab of the Home page. Fig 1.1 shows login to admin tab.
-  &nbsp; &nbsp; &nbsp; `username`: admin, `password`: admin123
+  &nbsp; &nbsp; &nbsp;
+  `username`: admin, `password`: admin123
 
 ![](https://github.com/SUMITHSAI/Hospital-Management-System.github.io/blob/main/Hospital-Management-System-PHP/hospital/assets/HMS%20Working%20Demo/10.png)
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -209,8 +208,7 @@ After clicking on the ‘Submit’ button, the patient will receive an alert tha
 	
 ![](https://github.com/SUMITHSAI/Hospital-Management-System.github.io/blob/main/Hospital-Management-System-PHP/hospital/assets/HMS%20Working%20Demo/16.png)
 <div align="center">
-  **Fig 1.6: Appointment History**
-</div>
+<strong>Fig 1.6: Appointment History</strong></div>
 
 Once the patient has logged out of his account, if he wants to go into his account again, he can login his account, instead of register his account again. Fig 1.9 shows the login page.
 Clicking on ‘Login’ button will redirect the patient to his dashboard page which we have seen earlier (Fig 1.8)
@@ -224,8 +222,7 @@ This is how the patient module works. On the whole, this module allows patients 
 ![](https://github.com/SUMITHSAI/Hospital-Management-System.github.io/blob/main/Hospital-Management-System-PHP/hospital/assets/HMS%20Working%20Demo/13.png)
 
 <div align="center">
-  **Fig 1.6: Dashboard**
-</div>
+<strong>Fig 1.6: Dashboard</strong></div>
 
 
 - After logging out of their account, patients can easily log back in without needing to register again. Fig 1.6 illustrates the login page where users can enter their credentials.
