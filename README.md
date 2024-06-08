@@ -38,6 +38,7 @@ Welcome to our Hospital Management System! 🌟 Our platform provides a comprehe
 1. Install XAMPP web server
 2. Any Editor (Preferably VS Code or other)
 3. Any web browser with latest version
+   <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## Installation
 Clone the repository:
@@ -82,10 +83,11 @@ git clone https://github.com/SUMITHSAI/Hospital-Management-System.github.io.git
 
 
 
-##DataBase Setup:
+## DataBase Setup:
 - Create a MySQL database named hms
 - Import the provided SQL dump file hms.sql into your MySQL database.
 - Make Necessary changes in the web content files(html and other) if needed according to your logic building.
+  <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## Steps to run the project in your machine
 1. Download and install XAMPP in your machine
@@ -97,6 +99,7 @@ git clone https://github.com/SUMITHSAI/Hospital-Management-System.github.io.git
 7. Import the file 'hms.sql' inside your newly created database and click ok.
 8. Open a new tab and type 'localhost/foldername' in the url of your browser
 9. Hurray! That's it!
+    <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## SOFTWARES USED
   - XAMPP was installed on the Windows 11 machine and APACHE2 Server and MySQL were initialized. And, files were built inside opt/lampp/htdocs
@@ -124,6 +127,7 @@ The ‘Home’ page consists of 3 Logins:
 <div align="center">
   **Fig 1.1: Three Login options for patients, doctors, administrator**
 </div>
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 'Our Key Features' Section (Fig 1.2) allows us to get some more information about the quality and the services of the hospital.
 ![](https://github.com/SUMITHSAI/Hospital-Management-System.github.io/blob/main/Hospital-Management-System-PHP/hospital/assets/HMS%20Working%20Demo/3.png)
@@ -148,6 +152,7 @@ The ‘Home’ page consists of 3 Logins:
 <div align="center">
   **Fig 1.5: Contact Us**
 </div>
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 Working Demo
 ### Patient Login:
@@ -168,6 +173,7 @@ Once the patient has created his/her own account after clicking the ‘Register�
 <div align="center">
   **Fig 1.6: Dashboard**
 </div>
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ### Doctor Login:
 
@@ -182,6 +188,7 @@ Once the patient has created his/her own account after clicking the ‘Register�
   &nbsp; &nbsp; &nbsp; `username`: admin, `password`: admin123
 
 ![](https://github.com/SUMITHSAI/Hospital-Management-System.github.io/blob/main/Hospital-Management-System-PHP/hospital/assets/HMS%20Working%20Demo/10.png)
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ### Pateint Dashboard
 The Patient Dashboard page allows patients to perform three operations:
@@ -226,7 +233,7 @@ This is how the patient module works. On the whole, this module allows patients 
 - Once logged in, patients are redirected to their dashboard (Fig 1.8), where they can access various features, including viewing and updating their profiles, booking appointments, and viewing appointment history.
 
 - On the whole, this module provides patients with the convenience of managing their profiles, booking appointments, and accessing their healthcare information seamlessly.
-
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 <!-- CONTRIBUTING -->
 ## Contributing
 
