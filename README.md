@@ -121,7 +121,6 @@ This Hospital Management System built with php and mysql provides a comprehensiv
 <div align="center">
 	<strong>Fig 1.1 illustrates the dynamic and user-friendly interface of the 'Home' page in our project.</strong>
 </div>
-<br>
 ![](https://github.com/SUMITHSAI/Hospital-Management-System.github.io/blob/main/Hospital-Management-System-PHP/hospital/assets/HMS%20Working%20Demo/1.png)
 <div align="center">
 The ‘Home’ page consists of 3 Logins:
